@@ -2,7 +2,7 @@
 
 My [Logseq](https://logseq.com) theme based on the work of @PiotrSss's [clean-themes](https://github.com/PiotrSss/logseq-clean-themes).
 
-<img src="laurel.png" width="100"/>
+<img src="./laurel.png" width="100"/>
 
 ## Demo
 Visit: https://logseq-laurel-theme.vercel.app/#/page/logseq%20laurel%20theme
@@ -26,7 +26,7 @@ The easiest way to adopt this theme is to use jsDelivr CDN.
 
 Alternatively once Logseq shipped plugins integration, you may also install this theme as a Logseq Plugin.
 
-<img src="plugin.png" height="300"/>
+<img src="./plugin.png" height="300"/>
 
 # Screenshots
 ![white](./white.png)
